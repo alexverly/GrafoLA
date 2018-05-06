@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Collections;
 using System.Linq;
@@ -101,7 +101,7 @@ namespace GrafoLA
                         if (i.Value.Contains(V1)) { }
                         else i.Value.Add(V1);
                     }
-                    pesquisa = "\nVértice inserido com sucesso. ";
+                    pesquisa = "\nAresta inserida com sucesso. ";
                 }
             }
             Console.Write(pesquisa);
@@ -184,7 +184,7 @@ namespace GrafoLA
             }
             else
             {
-                Console.WriteLine("\nAresta não existe. ");
+                // Console.WriteLine("\nAresta não existe. ");
             }
         }
 
