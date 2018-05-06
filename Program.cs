@@ -9,7 +9,7 @@ namespace GrafoLA
     class Program
     {
 
-        // GitHub: http://bit.ly/GrafoLA
+        // GitHub: http://bit.ly/GrafoLA-Codigo
         // Vídeo: http://bit.ly/GrafoLA-Video
 
         // APRESENTAÇÃO DO PROGRAMA: Este programa exibe um menu para o usuário que permite chamar vários métodos para análise de grafos.
